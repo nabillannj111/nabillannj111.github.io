@@ -15,7 +15,7 @@ Rule Mining, teknik untuk menemukan pola dan aturan dalam dataset.
 Teori Pemasaran, menyediakan dasar bagi perusahaan untuk memahami perilaku konsumen dan membuat strategi pemasaran yang efektif.
 ### Diagram 
 
-![Wallpaper](./assets/img/Graph.jpg "Diagram")
+![Wallpaper](./assets/img/Graph.png "Diagram")
 
 Collect Data
 mengumpulkan data transaksi penjualan dari sistem informasi retail. Data transaksi ini berisi informasi tentang produk apa saja yang dibeli bersamaan oleh konsumen dalam satu transaksi.
@@ -36,6 +36,7 @@ Interpretasi Hasil
 menafsirkan hasil analisis. Hasil analisis dapat digunakan untuk membuat keputusan bisnis, seperti menentukan penempatan produk di dalam toko atau menawarkan paket produk dengan harga yang lebih terjangkau kepada konsumen.
 
 Perusahaan dengan Metode MBA : 
+
 Amazon    :merekomendasikan produk-produk yang terkait kepada konsumen
 
 Walmart   :menentukan penempatan produk di dalam toko mereka
