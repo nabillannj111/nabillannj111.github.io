@@ -37,10 +37,12 @@ menafsirkan hasil analisis. Hasil analisis dapat digunakan untuk membuat keputus
 
 Perusahaan dengan Metode MBA : 
 Amazon    :merekomendasikan produk-produk yang terkait kepada konsumen
+
 Walmart   :menentukan penempatan produk di dalam toko mereka
+
 Starbucks :mengidentifikasi produk-produk yang sering dibeli bersamaan oleh konsumen dan menawarkan paket produk dengan harga yang lebih terjangkau
 
-https://img.shields.io/badge/prefix-suffix-warna?logo=GitHub&style=flat-square
+[![](https://img.shields.io/badge/prefix-suffix-warna?logo=Github&style=flat-square)](./assigments/pdf/Topik%201%202%20-%20Nabilla%20Nurjanah.pdf){:target="_blank" rel="noopener"}
 ---
 # Resources
 https://shields.io/#your-badge
